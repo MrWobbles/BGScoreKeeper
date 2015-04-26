@@ -1,0 +1,266 @@
+/* Betrayal Styles */
+body.Betrayal{
+  background: #146734 url('../images/Betrayal/betrayal_background.jpg') no-repeat;
+  background-size: cover;
+  height: 100vh;
+
+  h2{
+    color: #fff;
+  }
+
+  .character-stats{
+    color: #fff;
+    padding: 0px;
+    height: 240px;
+    overflow: hidden;
+    border: 2px solid rgba(00,00,00,0);
+
+    &::after{
+      content: "";
+      background: url('../images/Betrayal/Tile_BG.png');
+      opacity: 0.7;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      position: absolute;
+      z-index: -1;
+    }
+
+    tr:nth-of-type(odd) {
+      background-color: rgba(22, 22, 22, .8);
+    }
+
+    table{
+      font-size: 70%;
+      margin-bottom: 0px;
+      height: 100%;
+
+      tr:last-child td:last-child{
+        vertical-align: bottom;
+        padding-bottom: 0;
+      }
+    }
+
+    label{
+      text-align: left;
+    }
+
+    .character{height: 100%;
+      -webkit-transition: height 0.8s;
+      -moz-transition: height 0.8s;
+      transition: height 0.8s;
+      overflow: hidden;}
+    &:hover .character {
+      height: 0px;
+      overflow: hidden;
+      -webkit-transition: height 0.8s;
+      -moz-transition: height 0.8s;
+      transition: height 0.8s;
+    }
+
+    h3{
+      font-size: 100%;
+    }
+
+    img{
+      height: 150px;
+      margin-top: 13px;
+    }
+
+    .stats {
+      margin: 0 -8px;
+      position: relative;
+
+      .stat {
+        padding: 8px 0;
+        margin-top: -8px;
+
+        &.speed{
+          background-color: rgba(33, 66, 33, .7);
+        }
+        &.might{
+          background-color: rgba(153, 51, 51, .7);
+        }
+        &.sanity{
+          background-color: rgba(111, 77, 109, .7);
+        }
+        &.knowledge{
+          background-color: rgba(33, 63, 89, .7);
+        }
+
+        .number {
+          font-size: 175%;
+          display: block;
+        }
+      }
+    }
+
+
+  }
+
+  .selected-character{
+    display: none;
+  }
+
+  .trackers {
+
+    .Omen.indicator{
+      display: inline-block;
+      width: 26px;
+      height: 20px;
+      background-color: rgb(33,33,33);
+
+      position: relative;
+      top: 35px;
+      z-index: 5;
+
+      &::after{
+        content: "\A";
+        border-style: solid;
+        border-width: 12px 13px 0px 13px;
+        border-color: rgb(33,33,33) transparent transparent transparent;
+        position: relative;
+        top: 10px;
+      }
+      &::before{
+        content: "\A";
+        border-style: solid;
+        border-width: 12px 13px 0px 13px;
+        border-color: rgb(242,242,242) transparent transparent transparent;
+        position: absolute;
+        top: 22px;
+      }
+    }
+
+    .omen-tracker{
+      list-style-type: none;
+      color: #fff;
+      padding: 0;
+
+      &::before{
+        content: "\A";
+        border-style: solid;
+        border-width: 0px 162px 24px 549px;
+        border-color: transparent transparent rgba(22,22,22,.75) transparent;
+      }
+
+      li{
+        background-color: rgba(22,22,22,.75);
+        margin: 0;
+        width: 7.5%;
+        display: inline-block;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+        &:hover{
+          cursor: pointer;
+        }
+      }
+    }
+
+    .character {
+      .picture {
+        max-width: 210px;
+      }
+      .name {
+        text-align: center;
+        color: #fff;
+        margin-top: 8px;
+        font-size: 125%;
+      }
+    }
+
+    .stats-tracker {
+
+      .stat-tracker{
+        position: relative;
+      }
+
+      .indicator{
+        display: inline-block;
+        position: absolute;
+        height: 55px;
+        width: 50px;
+
+        &.Speed {
+          border: 10px solid rgb(33, 66, 33);
+        }
+        &.Might {
+          border: 10px solid rgb(153, 51, 51);
+        }
+        &.Sanity {
+          border: 10px solid rgb(33, 63, 89);
+        }
+        &.Knowledge {
+          border: 10px solid rgb(111, 77, 109);
+        }
+
+        &::before{
+          display: inline-block;
+          position: relative;
+          top: -10px;
+          left: -10px;
+          content: "\A";
+          border-style: solid;
+          border-width: 17px 25px 0px 25px;
+          border-color: rgba(22, 22, 22, 0.75) transparent transparent transparent;
+        }
+        &::after{  display: inline-block;
+          position: relative;
+          top: -12px;
+          left: -11px;
+          content: "\A";
+          border-style: solid;
+          border-width: 0px 25px 15px 25px;
+          border-color: transparent transparent rgba(22, 22, 22, 0.75) transparent;
+        }
+      }
+
+      .Speed.tracker li {
+        background-color: rgba(33, 66, 33, .7);
+        &:hover{
+          background-color: rgba(33, 66, 33, 1);
+        }
+      }
+
+      .Might.tracker li {
+        background-color: rgba(153, 51, 51, .7);
+        &:hover{
+          background-color: rgba(153, 51, 51, 1);
+        }
+      }
+
+      .Knowledge.tracker li {
+        background-color: rgba(111, 77, 109, .7);
+        &:hover{
+          background-color: rgba(111, 77, 109, 1);
+        }
+      }
+
+      .Sanity.tracker li {
+        background-color: rgba(33, 63, 89, .7);
+        &:hover{
+          background-color: rgba(33, 63, 89, 1);
+        }
+      }
+
+      li {
+        display: inline-block;
+        text-align: center;
+        width: 50px;
+        line-height: 55px;
+        color: #fff;
+
+        &.dead{
+          text-indent: -100000px;
+          background: transparent url('../images/Betrayal/skull.png') center center no-repeat;
+          background-size: 20px;
+        }
+        &:hover{
+          cursor: pointer;
+        }
+      }
+    }
+  }
+}
