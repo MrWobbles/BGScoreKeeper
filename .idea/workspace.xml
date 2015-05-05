@@ -2,76 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81d1aa77-bb3b-4bba-b08a-3d465ecbcace" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/android-icon-144x144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/android-icon-192x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/android-icon-36x36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/android-icon-48x48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/android-icon-72x72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/android-icon-96x96.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-114x114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-120x120.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-144x144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-152x152.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-180x180.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-57x57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-60x60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-72x72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-76x76.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/favicon-16x16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/favicon-32x32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/favicon-96x96.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/ms-icon-144x144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/ms-icon-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/ms-icon-310x310.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/ms-icon-70x70.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/browserconfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/favicon/manifest.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/Betrayal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/BGSK_Logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/Betrayal_Logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/Char-Brandon_Jaspers.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/Char-Darrin_Flash_Williams.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/Char-Father_Rhinehardt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/Char-Heather_Granville.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/Char-Jenny_LeClerc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/Char-Madame_Zostra.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/Char-Missy_Dubourde.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/Char-Ox_Bellows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/Char-Peter_Akimoto.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/Char-Professor_Longfellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/Char-Vivian_Lopez.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/Char-Zoe_Ingstrom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/Tile_BG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/Betrayal/betrayal_background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/BiGSKy_Logo_Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/BiGSKy_Logo_Small_White.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/images/BiGSKy_Logo_White.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/scripts/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/scripts/plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/scripts/vendor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/scripts/vendor/modernizr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/styles/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public_html/styles/vendor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/apng_test.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/before-after.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/form_validation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/ga.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/green5x5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/hashchange.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/mathml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/mathml_ref.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/modernizr-1.7.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/png_alpha_result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/pushstate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/red30x30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/ruby.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/stroked-text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/svg-html-blur.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/svg-img.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/svg-img.svg.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/svg_blur.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/table.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/text-shadow1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/text-shadow2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/windsong_font.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/xhtml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/js/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/js/dumpdata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/detect-global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/jquery-1.7b2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/jsonselect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/polyfills.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/uaparser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/js/setup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/js/unit-caniuse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/js/unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/qunit/qunit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/qunit/qunit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/modernizr/test/qunit/run-qunit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/chai/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/chai/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/chai/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/chai/ReleaseNotes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/chai/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/chai/chai.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/chai/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/chai/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/chai/karma.sauce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/chai/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/chai/sauce.browsers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/mocha/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/mocha/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/mocha/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/mocha/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/mocha/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/mocha/media/logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/mocha/mocha.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bower_components/mocha/mocha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/spec/test.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/android-icon-144x144.png" afterPath="$PROJECT_DIR$/app/images/favicon/android-icon-144x144.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/android-icon-192x192.png" afterPath="$PROJECT_DIR$/app/images/favicon/android-icon-192x192.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/android-icon-36x36.png" afterPath="$PROJECT_DIR$/app/images/favicon/android-icon-36x36.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/android-icon-48x48.png" afterPath="$PROJECT_DIR$/app/images/favicon/android-icon-48x48.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/android-icon-72x72.png" afterPath="$PROJECT_DIR$/app/images/favicon/android-icon-72x72.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/android-icon-96x96.png" afterPath="$PROJECT_DIR$/app/images/favicon/android-icon-96x96.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/apple-icon-114x114.png" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-114x114.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/apple-icon-120x120.png" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-120x120.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/apple-icon-144x144.png" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-144x144.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/apple-icon-152x152.png" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-152x152.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/apple-icon-180x180.png" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-180x180.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/apple-icon-57x57.png" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-57x57.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/apple-icon-60x60.png" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-60x60.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/apple-icon-72x72.png" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-72x72.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/apple-icon-76x76.png" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-76x76.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/apple-icon-precomposed.png" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon-precomposed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/apple-icon.png" afterPath="$PROJECT_DIR$/app/images/favicon/apple-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/favicon-16x16.png" afterPath="$PROJECT_DIR$/app/images/favicon/favicon-16x16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/favicon-32x32.png" afterPath="$PROJECT_DIR$/app/images/favicon/favicon-32x32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/favicon-96x96.png" afterPath="$PROJECT_DIR$/app/images/favicon/favicon-96x96.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/favicon.ico" afterPath="$PROJECT_DIR$/app/images/favicon/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/ms-icon-144x144.png" afterPath="$PROJECT_DIR$/app/images/favicon/ms-icon-144x144.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/ms-icon-150x150.png" afterPath="$PROJECT_DIR$/app/images/favicon/ms-icon-150x150.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/ms-icon-310x310.png" afterPath="$PROJECT_DIR$/app/images/favicon/ms-icon-310x310.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/favicon/ms-icon-70x70.png" afterPath="$PROJECT_DIR$/app/images/favicon/ms-icon-70x70.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Betrayal.html" afterPath="$PROJECT_DIR$/app/Betrayal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/Betrayal.js" afterPath="$PROJECT_DIR$/app/scripts/Betrayal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/Betrayal.scss" afterPath="$PROJECT_DIR$/app/styles/Betrayal.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/main.js" afterPath="$PROJECT_DIR$/app/scripts/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/main.scss" afterPath="$PROJECT_DIR$/app/styles/main.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BGScoreKeeper.iws" />
@@ -96,14 +123,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.2531645" vertical-offset="377" max-vertical-offset="2415">
-              <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+            <state vertical-scroll-proportion="0.67167383" vertical-offset="272" max-vertical-offset="2415">
+              <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
               <folding>
-                <marker date="1430842823000" expanded="true" signature="2296:2449" placeholder="..." />
-                <marker date="1430842823000" expanded="true" signature="2389:2417" placeholder="..." />
+                <marker date="1430847921000" expanded="true" signature="2296:2449" placeholder="..." />
+                <marker date="1430847921000" expanded="true" signature="2389:2417" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -144,11 +171,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26056337" vertical-offset="17" max-vertical-offset="585">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -370,6 +397,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BGScoreKeeper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BGScoreKeeper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BGScoreKeeper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BGScoreKeeper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="favicon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -519,18 +586,18 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31009614" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30963856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24749643" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24749643" sideWeight="0.5008726" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24749643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2819277" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24749643" sideWeight="0.4991274" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2819277" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -779,22 +846,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.2531645" vertical-offset="377" max-vertical-offset="2415">
-          <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
-          <folding>
-            <marker date="1430842823000" expanded="true" signature="2296:2449" placeholder="..." />
-            <marker date="1430842823000" expanded="true" signature="2389:2417" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26056337" vertical-offset="17" max-vertical-offset="585">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.67167383" vertical-offset="272" max-vertical-offset="2415">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+          <folding>
+            <marker date="1430847921000" expanded="true" signature="2296:2449" placeholder="..." />
+            <marker date="1430847921000" expanded="true" signature="2389:2417" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
