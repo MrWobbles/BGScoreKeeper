@@ -36,6 +36,13 @@ body {
   }
 }
 
+.nav .dropdown-menu li{
+    &.Betrayal a:hover{
+        background: darkgreen url('../images/Betrayal/betrayal_background.jpg') top left repeat-x;
+        color: #f7ed41;
+    }
+}
+
 /* Custom page styles */
 .features{
   text-align: center;
@@ -110,6 +117,29 @@ body {
   .jumbotron {
     border-bottom: 0;
   }
+}
+
+.GamePage{
+    .header{
+        float: left;
+        margin-left: 32px;
+    }
+}
+
+@mixin ghost-button($color){
+    background: transparent;
+    border: none;
+    color: $color;
+    opacity: .5;
+    border-radius: 4px;
+    font-style: italic;
+    font-size: 85%;
+    width: 100%;
+
+    &:hover{
+        color: $color;
+        opacity: 1;
+    }
 }
 
 @import 'Betrayal';

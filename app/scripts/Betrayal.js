@@ -5,7 +5,7 @@ var Longfellow = {
   Might: [0,1,2,[3],4,5,5,6,6],
   Sanity: [0,1,3,[3],4,5,5,6,7],
   Knowledge: [0,4,5,5,5,[5],6,7,8]
-}
+};
 
 var Rhinehardt = {
   Name: 'Father Rhinehardt',
@@ -14,7 +14,7 @@ var Rhinehardt = {
   Might: [0,1,2,[2],4,4,5,5,7],
   Sanity: [0,3,4,5,5,[6],7,7,8],
   Knowledge: [0,1,3,3,[4],5,6,6,8]
-}
+};
 
 var Akimoto = {
   Name: 'Peter Akimoto',
@@ -23,7 +23,7 @@ var Akimoto = {
   Might: [0,2,3,[3],4,5,5,6,8],
   Sanity: [0,3,4,4,[4],5,6,6,7],
   Knowledge: [0,3,4,[4],5,6,7,7,8]
-}
+};
 
 var Jaspers = {
   Name: 'Brandon Jaspers',
@@ -32,7 +32,7 @@ var Jaspers = {
   Might: [0,2,3,3,[4],5,6,6,7],
   Sanity: [0,3,3,3,[4],5,6,7,8],
   Knowledge: [0,1,3,[3],5,5,6,6,7]
-}
+};
 
 var LeClerc = {
   Name: 'Jenny LeClerc',
@@ -41,7 +41,7 @@ var LeClerc = {
   Might: [0,3,4,[4],4,4,5,6,8],
   Sanity: [0,1,1,2,4,[4],4,5,6],
   Knowledge: [0,2,3,[3],4,4,5,6,8]
-}
+};
 
 var Granville = {
   Name: 'Heather Granville',
@@ -50,7 +50,7 @@ var Granville = {
   Might: [0,3,3,[3],4,5,6,7,8],
   Sanity: [0,3,3,[3],4,5,6,6,6],
   Knowledge: [0,2,3,3,4,[5],6,7,8]
-}
+};
 
 var Zostra = {
   Name: 'Madame Zostra',
@@ -59,7 +59,7 @@ var Zostra = {
   Might: [0,2,3,3,[4],5,5,5,6],
   Sanity: [0,4,4,[4],5,6,7,8,8],
   Knowledge: [0,1,3,4,[4],4,5,6,6]
-}
+};
 
 var Lopez = {
   Name: 'Vivian Lopez',
@@ -68,7 +68,7 @@ var Lopez = {
   Might: [0,2,2,[2],4,4,5,6,6],
   Sanity: [0,4,4,[4],5,6,7,8,8],
   Knowledge: [0,4,5,5,[5],5,6,6,7]
-}
+};
 
 var Ingstrom = {
   Name: 'Zoe Ingstrom',
@@ -77,7 +77,7 @@ var Ingstrom = {
   Might: [0,2,2,3,[3],4,4,6,7],
   Sanity: [0,3,4,[5],5,6,6,7,8],
   Knowledge: [0,1,2,[3],4,4,5,5,5]
-}
+};
 
 var Dubourde = {
   Name: 'Missy Dubourde',
@@ -86,7 +86,7 @@ var Dubourde = {
   Might: [0,2,3,3,[3],4,5,6,7],
   Sanity: [0,1,2,[3],4,5,5,6,7],
   Knowledge: [0,2,3,4,[4],5,6,6,6]
-}
+};
 
 var Williams = {
   Name: 'Darrin Flash Williams',
@@ -95,7 +95,7 @@ var Williams = {
   Might: [0,2,3,[3],4,5,6,6,7],
   Sanity: [0,1,2,[3],4,5,5,5,7],
   Knowledge: [0,2,3,[3],4,5,5,5,7]
-}
+};
 
 var Bellows = {
   Name: 'Ox Bellows',
@@ -104,7 +104,7 @@ var Bellows = {
   Might: [0,4,5,[5],6,6,7,8,8],
   Sanity: [0,2,2,[3],4,5,5,6,7],
   Knowledge: [0,2,2,[3],3,5,5,6,6]
-}
+};
 
 var CharacterArray = [Bellows, Williams, Dubourde, Ingstrom, Lopez, Zostra, LeClerc, Granville, Jaspers, Akimoto, Longfellow, Rhinehardt];
 
@@ -121,7 +121,7 @@ $(document).ready(function () {
   $('#NewCharacter').click(function () {
     $('.features').slideDown();
     $('.selected-character').slideUp();
-  })
+  });
 
   $('.tracker').on('click', 'li', function(){
     var stat = $(this).parents('ul').attr('class').split(' ')[0];
@@ -164,7 +164,7 @@ $(document).ready(function () {
             $('.' + stat + '.indicator').css({'right' : indicator_location + 'px'});
           } else {
             stat_html += "<li";
-            if(i == 0){
+            if(i === 0){
               stat_html += " class='dead'>";
             } else {
               stat_html += ">";
